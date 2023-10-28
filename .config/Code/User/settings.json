@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSave": "onFocusChange",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false
+}

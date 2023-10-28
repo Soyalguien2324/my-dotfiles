@@ -1,0 +1,29 @@
+[Default Applications]
+x-scheme-handler/http=firefox-esr.desktop
+x-scheme-handler/https=firefox-esr.desktop
+x-scheme-handler/chrome=firefox-esr.desktop
+text/html=firefox-esr.desktop
+application/x-extension-htm=firefox-esr.desktop
+application/x-extension-html=firefox-esr.desktop
+application/x-extension-shtml=firefox-esr.desktop
+application/xhtml+xml=firefox-esr.desktop
+application/x-extension-xhtml=firefox-esr.desktop
+application/x-extension-xht=firefox-esr.desktop
+application/x-zerosize=vim.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+text/x-csrc=nvim.desktop
+application/x-shellscript=userapp-bash-KFIMC2.desktop
+application/vnd.debian.binary-package=userapp-%s-PJSMD2.desktop
+
+[Added Associations]
+x-scheme-handler/http=xfce4-web-browser.desktop;firefox-esr.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;firefox-esr.desktop;
+application/x-zerosize=vim.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+text/x-csrc=kali-clang.desktop;nvim.desktop;
+application/x-shellscript=nvim.desktop;userapp-bash %s-OK8PC2.desktop;userapp-bash-KFIMC2.desktop;
+text/x-arduino=kali-clang.desktop;
+video/quicktime=vlc.desktop;
+audio/mpeg=vlc.desktop;
+text/plain=org.xfce.mousepad.desktop;micro.desktop;
+application/vnd.debian.binary-package=engrampa.desktop;userapp-%s-PJSMD2.desktop;

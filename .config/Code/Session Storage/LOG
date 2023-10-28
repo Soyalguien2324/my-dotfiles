@@ -1,0 +1,5 @@
+2023/10/28-16:07:07.027 77db Recovering log #6
+2023/10/28-16:07:07.028 77db Level-0 table #8: started
+2023/10/28-16:07:07.028 77db Level-0 table #8: 0 bytes OK
+2023/10/28-16:07:07.067 77db Delete type=3 #4
+2023/10/28-16:07:07.078 77db Delete type=0 #6
