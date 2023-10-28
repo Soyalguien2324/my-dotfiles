@@ -1,4 +1,3 @@
-
 function prompt {
 # The following block is surrounded by two delimiters.
 # These delimiters must not be modified. Thanks.
